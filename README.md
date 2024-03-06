@@ -1,3 +1,3 @@
 # GenerateFenNotationForChess
 
-##Import chess package only
+## Import chess package only
